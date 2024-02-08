@@ -27,7 +27,7 @@ const perguntas = [
       correta: 0
     },
     {
-      pergunta: "Qual função é usada para converter uma string em um número em JavaScript?",
+      pergunta: "Função usada para converter uma string em um número em JavaScript?",
       respostas: [
         "parseInt()",
         "stringToNumber()",
